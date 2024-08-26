@@ -1,4 +1,4 @@
-# Proje.
+# Proje Çalışması
 Çalışanlar Projesi.
 Çalışanlar Projesinde Admin Girişi ve Çalışan Ekleme
 1. Çalışan Ekleme:
